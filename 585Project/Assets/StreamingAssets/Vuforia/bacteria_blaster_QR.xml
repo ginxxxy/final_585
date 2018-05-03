@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="BB_QR_N-01" size="5.000000 4.886105" />
+    <ImageTarget name="BB_QR_T-01" size="5.000000 4.886105" />
+    <ImageTarget name="BB_QR_S-01" size="5.000000 4.886105" />
+    <ImageTarget name="BB_QR_R-01" size="5.000000 4.886105" />
+    <ImageTarget name="BB_QR_Q-01" size="5.000000 4.886105" />
+    <ImageTarget name="BB_QR_P-01" size="5.000000 4.886105" />
+    <ImageTarget name="BB_QR_O-01" size="5.000000 4.886105" />
+    <ImageTarget name="BB_QR_M-01" size="5.000000 4.886105" />
+    <ImageTarget name="BB_QR_L-01" size="5.000000 4.886105" />
+    <ImageTarget name="BB_QR_K-01" size="5.000000 4.886105" />
+    <ImageTarget name="BB_QR_J" size="5.000000 4.887514" />
+    <ImageTarget name="BB_QR_I-01" size="5.000000 4.886105" />
+    <ImageTarget name="BB_QR_H-01" size="5.000000 4.886105" />
+    <ImageTarget name="BB_QR_G-01" size="5.000000 4.886105" />
+    <ImageTarget name="BB_QR_F-01" size="5.000000 4.886105" />
+    <ImageTarget name="BB_QR_E-01" size="5.000000 4.886105" />
+    <ImageTarget name="BB_QR_D-01" size="5.000000 4.886105" />
+    <ImageTarget name="BB_QR_C-01" size="5.000000 4.886105" />
+    <ImageTarget name="BB_QR_B-01" size="5.000000 4.886105" />
+    <ImageTarget name="BB_QR_A-01" size="5.000000 4.886105" />
+  </Tracking>
+</QCARConfig>
