@@ -37,81 +37,85 @@ public class collect_coin : MonoBehaviour {
 		if (coins.activeSelf == true) {
 			Destroy (coins);
 			Scorecount.scorevalue++;
+
 		}
 		if (coins2.activeSelf == true) {
 			Destroy (coins2);
 			Scorecount.scorevalue++;
+
 		}
 		if (coins3.activeSelf == true) {
 			Destroy (coins3);
 			Scorecount.scorevalue++;
+
 		}
 		if (coins4.activeSelf == true) {
-			Destroy (coins3);
+			Destroy (coins4);
 			Scorecount.scorevalue++;
+		
 		}
 		if (coins5.activeSelf == true) {
-			Destroy (coins3);
+			Destroy (coins5);
 			Scorecount.scorevalue++;
 		}
 		if (coins6.activeSelf == true) {
-			Destroy (coins3);
+			Destroy (coins6);
 			Scorecount.scorevalue++;
 		}
 		if (coins7.activeSelf == true) {
-			Destroy (coins3);
+			Destroy (coins7);
 			Scorecount.scorevalue++;
 		}
 		if (coins8.activeSelf == true) {
-			Destroy (coins3);
+			Destroy (coins8);
 			Scorecount.scorevalue++;
 		}
 		if (coins9.activeSelf == true) {
-			Destroy (coins3);
+			Destroy (coins9);
 			Scorecount.scorevalue++;
 		}
 		if (coins10.activeSelf == true) {
-			Destroy (coins3);
+			Destroy (coins10);
 			Scorecount.scorevalue++;
 		}
 		if (coins11.activeSelf == true) {
-			Destroy (coins3);
+			Destroy (coins11);
 			Scorecount.scorevalue++;
 		}
 		if (coins12.activeSelf == true) {
-			Destroy (coins3);
+			Destroy (coins12);
 			Scorecount.scorevalue++;
 		}
 		if (coins13.activeSelf == true) {
-			Destroy (coins3);
+			Destroy (coins13);
 			Scorecount.scorevalue++;
 		}
 		if (coins14.activeSelf == true) {
-			Destroy (coins3);
+			Destroy (coins14);
 			Scorecount.scorevalue++;
 		}
 		if (coins15.activeSelf == true) {
-			Destroy (coins3);
+			Destroy (coins15);
 			Scorecount.scorevalue++;
 		}
 		if (coins16.activeSelf == true) {
-			Destroy (coins3);
+			Destroy (coins16);
 			Scorecount.scorevalue++;
 		}
 		if (coins17.activeSelf == true) {
-			Destroy (coins3);
+			Destroy (coins17);
 			Scorecount.scorevalue++;
 		}
 		if (coins18.activeSelf == true) {
-			Destroy (coins3);
+			Destroy (coins18);
 			Scorecount.scorevalue++;
 		}
 		if (coins19.activeSelf == true) {
-			Destroy (coins3);
+			Destroy (coins19);
 			Scorecount.scorevalue++;
 		}
 		if (coins20.activeSelf == true) {
-			Destroy (coins3);
+			Destroy (coins20);
 			Scorecount.scorevalue++;
 		}
 	}

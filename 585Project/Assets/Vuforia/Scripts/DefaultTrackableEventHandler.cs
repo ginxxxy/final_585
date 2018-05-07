@@ -52,6 +52,7 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
                  newStatus == TrackableBehaviour.Status.NOT_FOUND)
         {
             Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " lost");
+			cubeHP.resetHp ();
             OnTrackingLost();
         }
         else

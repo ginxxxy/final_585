@@ -36,11 +36,11 @@ public class Timer : MonoBehaviour {
 		) {
 			gamePaused = true;
 			Time.timeScale = 0f;
-			Debug.Log ("PAUSED");
+			//Debug.Log ("PAUSED");
 		} else {
 			gamePaused = false;
 			Time.timeScale = 1f;
-			Debug.Log ("UNPAUSED");
+			//Debug.Log ("UNPAUSED");
 		}
 	}
 }

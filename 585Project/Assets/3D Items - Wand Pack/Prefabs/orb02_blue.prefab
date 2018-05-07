@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 114113663258098364}
   - component: {fileID: 54544934688483234}
   - component: {fileID: 65999209925886820}
+  - component: {fileID: 114189416697442754}
   m_Layer: 0
   m_Name: orb02_blue
   m_TagString: Untagged
@@ -123,3 +124,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4510f796561443cd9f312f9a15b0c09, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &114189416697442754
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 134854}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7772eafaa6ae8402d8e5e74005c1c9c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  wand_power: 2
